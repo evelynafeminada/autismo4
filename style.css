@@ -1,0 +1,74 @@
+header {
+    display: inline-flexbox;
+    background-color: rgb(254, 255, 223);
+    border: 5px solid rgb(230, 0, 69);
+    margin: 25px;
+}
+
+.titulo {
+    font-size: 70px;
+    font-style: italic;
+    color: rgb(165, 3, 57);
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 150px;
+    padding-top: 160px;
+}
+
+.autismo {
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-bottom: 25px;
+}
+
+main {
+    background-color:  rgb(254, 255, 223);
+    border: 5px solid rgb(230, 0, 69);
+    margin: 25px;
+    padding-left: 25px;
+}
+
+body {
+    background-color: rgb(228, 185, 255);
+}
+
+
+.rod {
+    font-size: 27px;
+    font-style: italic;
+    color: rgb(26, 175, 71);
+   
+}
+
+.aiiii {
+    font-size: 27px;
+    font-style: italic;
+    color: rgb(26, 175, 71);
+}
+
+.uii {
+    font-size: 27px;
+    font-style: italic;
+    color: rgb(26, 175, 71);
+}
+
+.uf {
+    font-size: 27px;
+    font-style: italic;
+    color: rgb(230, 14, 147);
+}
+
+.aff {
+    font-size: 27px;
+    font-style: italic;
+    color:  rgb(230, 14, 147);
+}
+
+
+footer {
+    background-color: rgb(228, 185, 255);
+}
+
+.crianca {
+ padding-left: 30%;
+}
